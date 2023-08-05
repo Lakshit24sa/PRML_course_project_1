@@ -1,14 +1,12 @@
 # PRML_course_project_1 report 
-NAME – LAKSHIT CHOUBISA
-ROLL NO. – B21AI057
-PRML MINOR PROJECT
-TITLE – CUSTOMER SEGREGATION
+# NAME – LAKSHIT CHOUBISA
+# ROLL NO. – B21AI057
+# PRML MINOR PROJECT
+# TITLE – CUSTOMER SEGREGATION
 
-TASK - We have to segment customers based on their buying behavior on the market.
-Your task is to classify the data into the possible types of customers which the retailer
-can encounter.
+# TASK - Given a dataset of customers that include the customer ID, the products they buy, price of each product ,time,date etc . My task is to classify the data into the possible types of customers which the retailer can encounter.
 
-Steps followed by me :
+# Steps followed by me :
 1) Load the data set.
 2) Preprocessing and visualization of data.
 3) Making a new dataframe that will contain all information about a customer.
